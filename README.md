@@ -1,4 +1,4 @@
-# 👩‍💻 Idil Ece Trabzon
+# 👩🏻‍💻 Idil Ece Trabzon
 
 **Senior Software Engineer | Istanbul, Turkey**
 
@@ -62,7 +62,7 @@ _Bachelor's in Computer Engineering (2015 – 2021)_
 
 ## 📄 Publications
 
-- [Framework for experiential transcoding of web pages with scanpath trend analysis](https://dl.acm.org/doi##
+- [Framework for experiential transcoding of web pages with scanpath trend analysis](https://dl.acm.org/doi/10.1145/3493612.3520450)
 
 
 ## 🛠️ Skills
