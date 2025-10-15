@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Idil Ece Trabzon
+# 👩‍💻 Idil Ece Trabzon
 
 **Senior Software Engineer | Istanbul, Turkey**
 
