@@ -3,7 +3,7 @@
 **Senior Software Engineer | Istanbul, Turkey**
 
 📫 ecee.trabzon@gmail.com  
-🔗 LinkedIn  
+🔗 [LinkedIn](https://www.linkedin.com/in/ece-trabzon)
 📍 Istanbul, Turkey
 
 ---
@@ -62,7 +62,10 @@ _Bachelor's in Computer Engineering (2015 – 2021)_
 
 ## 📄 Publications
 
-- [Framework for experiential transcoding of web pages with scanpath trend analysis](https://dl.acm.org/doi## 🛠️ Skills
+- [Framework for experiential transcoding of web pages with scanpath trend analysis](https://dl.acm.org/doi##
+
+
+## 🛠️ Skills
 
 **Frontend:** HTML, CSS, JavaScript, TypeScript, Angular, Bootstrap  
 **Backend:** C++, Node.js  
